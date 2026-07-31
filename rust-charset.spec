@@ -5,8 +5,8 @@
 %global crate charset
 
 Name:           rust-%{crate}
-Version:        0.1.2
-Release:        2%{?dist}
+Version:        0.1.5
+Release:        1%{?dist}
 Summary:        Thunderbird-compatible character encoding decoding for email
 
 # Upstream license specification: MIT/Apache-2.0
